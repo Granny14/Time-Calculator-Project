@@ -34,7 +34,7 @@ def add_time(start, duration, starting_day=None):
 # Installation
 - **To use this function, clone the repository and import the function into your Python script.**
 
-- **git clone https://github.com/your-username/time-calculator.git**
+- **git clone [https://github.com/your-username/time-calculator.git](https://github.com/Granny14/Time-Calculator-Project.git)**
 
 # Running the Tests
 - **You can run the provided test cases to verify the functionality of the add_time function.**
